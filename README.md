@@ -57,31 +57,23 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/NeuraPix.git
+git clone https://github.com/rohit02k5/NeuraPix.git
 cd NeuraPix
-Install dependencies:
 
+Install dependencies:
 bash
 Copy code
 npm install
-Start the development server:
 
+Start the development server:
 bash
 Copy code
 npm start(for the server folder)
 npm run dev(for the client folder)
-Open the app:
 
+Open the app:
 Visit http://localhost:5173 in your browser.
 🌑 Dark Mode Toggle
 NeuraPix supports dark mode! Click the "Dark Mode" button in the header to switch between light and dark themes.
-
-Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m "Add a new feature").
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
-📝 License
-This project is licensed under the MIT License. Feel free to use and modify it.
 
 Thank you for visiting NeuraPix! Happy creating! 🎨✨
