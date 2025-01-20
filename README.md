@@ -9,7 +9,7 @@ Surprise Me: Not sure what to create? Use the Surprise Me button for inspiration
 Responsive Design: Fully responsive layout optimized for all devices.
 Modern UI: Clean, minimalistic, and easy-to-navigate interface.
 🖼️ Demo
-Check out the live demo of NeuraPix: NeuraPix Live
+Check out the live demo of NeuraPix: NeuraPix Live(https://neurapix-frontend-3.onrender.com)
 
 📸 Screenshots
 Light Mode
