@@ -21,6 +21,13 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **NeuraPix:**  
+👉 https://neurapix-frontend-3.onrender.com/
+
+---
+
 ## ✨ Core Features
 
 ### 🎨 AI-Powered Image Generation
