@@ -69,7 +69,6 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ## 🖼️ Application Screenshots
 
-> *(Replace placeholders below with actual screenshots from your app)*
 
 <img width="1893" height="904" alt="Screenshot 2025-12-15 233004" src="https://github.com/user-attachments/assets/c2e6d04e-67e7-4c01-8f86-2b469c63119b" />
 
