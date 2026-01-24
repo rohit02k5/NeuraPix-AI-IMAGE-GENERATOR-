@@ -1,11 +1,11 @@
-# 🌌 NeuraPix — AI Image Generation & Community Platform
+# NeuraPix — AI Image Generation & Community Platform
 
 > **A premium, full-stack AI product showcasing real-world system design, scalable architecture, and polished UX.**
 > *Where creativity meets intelligence.*
 
 ---
 
-## 🧠 What is NeuraPix?
+## What is NeuraPix?
 
 **NeuraPix** is a **production-ready AI image generation platform** that allows users to transform natural language prompts into high-quality visuals using **Stable Diffusion XL**, while participating in a **gamified creative community**.
 
@@ -21,16 +21,16 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 **NeuraPix:**  
-👉 https://neurapix-frontend-3.onrender.com/
+**NeuraPix:**  
+https://neurapix-frontend-3.onrender.com/
 
 ---
 
-## ✨ Core Features
+## Core Features
 
-### 🎨 AI-Powered Image Generation
+### AI-Powered Image Generation
 
 * **Text-to-Image using Stable Diffusion XL** (via Stability AI)
 * High-fidelity, cinematic image outputs
@@ -39,7 +39,7 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-### 🌍 Community & Social Layer
+### Community & Social Layer
 
 * **Community Showcase**: Public gallery of shared AI-generated artwork
 * **Search & Explore**: Browse community creations with smooth UI performance
@@ -47,7 +47,7 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-### 🎮 Gamification System
+### Gamification System
 
 * **Coin Economy**: Users earn **coins for sharing creations publicly**
 * **Leaderboard**: Real-time ranking of top creators
@@ -55,7 +55,7 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-### 🔐 Authentication & Security
+### Authentication & Security
 
 * Secure **Login / Signup** system
 * **JWT-based authentication** with session persistence
@@ -64,7 +64,7 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-### 💎 Premium UI / UX Design
+### Premium UI / UX Design
 
 * **Neural Glassmorphism aesthetic**
 * Cyberpunk-inspired **neon color palette** (Blue • Purple • Pink)
@@ -74,7 +74,7 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-## 🖼️ Application Screenshots
+## Application Screenshots
 
 
 <img width="1893" height="904" alt="Screenshot 2025-12-15 233004" src="https://github.com/user-attachments/assets/c2e6d04e-67e7-4c01-8f86-2b469c63119b" />
@@ -93,7 +93,7 @@ This project is designed to demonstrate **industry-level full-stack and AI integ
 
 ---
 
-## 🏗️ System Architecture (Recruiter Focused)
+## System Architecture (Recruiter Focused)
 
 ### High-Level Flow
 
@@ -112,7 +112,7 @@ User → React Frontend → Express API → Stability AI
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer                | Technologies                                           |
 | -------------------- | ------------------------------------------------------ |
@@ -126,7 +126,7 @@ User → React Frontend → Express API → Stability AI
 
 ---
 
-## ⚡ Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 ### Prerequisites
 
@@ -137,7 +137,7 @@ User → React Frontend → Express API → Stability AI
 
 ---
 
-### 🔧 Backend Setup
+### Backend Setup
 
 ```bash
 cd server
@@ -164,7 +164,7 @@ npm start
 
 ---
 
-### 🎨 Frontend Setup
+### Frontend Setup
 
 ```bash
 cd client
@@ -185,7 +185,7 @@ npm run dev
 
 ---
 
-## 🚀 Why This Project Stands Out
+## Why This Project Stands Out
 
 ✔ Not a tutorial clone — **designed like a real product**
 ✔ Demonstrates **AI API integration at scale**
@@ -197,7 +197,7 @@ This project reflects how I approach software engineering: **clean architecture,
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Image upscaling & variations
 * Likes, comments, and remix prompts
@@ -206,13 +206,13 @@ This project reflects how I approach software engineering: **clean architecture,
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rohit**
 B.Tech Electrical Engineering, IIT Bhilai
 AI • Full-Stack • Systems-Oriented Developer
 
-📫 *Feel free to connect — I’m always open to impactful opportunities.*
+*Feel free to connect — I’m always open to impactful opportunities.*
 
 ---
 
